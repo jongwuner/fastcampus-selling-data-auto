@@ -1,2 +1,1 @@
-# fastcampus-selling-data-auto
-fastcampus-selling-data-auto
+# fastcampus_naver_api
