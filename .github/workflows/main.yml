@@ -27,16 +27,16 @@ jobs:
         X_NAVER_CLIENT_ID: ${{ secrets.X_NAVER_CLIENT_ID }}
         X_NAVER_CLIENT_SECRET: ${{ secrets.X_NAVER_CLIENT_SECRET }}
 
-        keyword0: "TV"
-        keyword1: "리모컨"
-        keyword2: "마우스"
-        keyword3: "소파"
-        keyword4: "스탠드조명"
-        keyword5: "스피커"
-        keyword6: "슬리퍼"
-        keyword7: "테이블"
-        keyword8: "프린터기"
-        keyword9: "모니터"
+        keyword0: "TV받침대"
+        keyword1: "PC본체"
+        keyword2: "무선마우스"
+        keyword3: "스탠드"
+        keyword4: "램프"
+        keyword5: "음향기기"
+        keyword6: "운동화"
+        keyword7: "책상"
+        keyword8: "팩스"
+        keyword9: "방향제"
 
     - name: Commit files
       id: commit
