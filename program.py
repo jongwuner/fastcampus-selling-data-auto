@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 import re
 
-# EXCEL 저장 정보
+# EXCEL 저장 정보1
 column_name_list = [
   '제목',
   '링크',
